@@ -2,6 +2,9 @@
 
 
 
+## Situs link nya
+portfolio (https://tapircode.github.io/belajar-web-dasar-dicoding/)
+
 ## Deskripsi Proyek
 
 Proyek ini adalah portofolio sederhana untuk belajar semantic HTML dan CSS.
